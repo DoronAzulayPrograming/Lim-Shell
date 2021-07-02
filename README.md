@@ -63,3 +63,7 @@ Using Variables and Functions.
 Using For loop and if statement.
 
 <img src="https://i.ibb.co/nP91b5M/For-Loop-And-If-Statment.png" alt="For-Loop-And-If-Statment" border="0">
+
+Visual studio code
+
+<img src="https://i.ibb.co/k8d1vp1/lim-In-Vs-Code.png" alt="lim-In-Vs-Code" border="0">
