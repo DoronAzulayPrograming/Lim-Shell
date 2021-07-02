@@ -7,6 +7,19 @@ scripting language build on dotnet core
 + Linux
 + Windows
 
+#### Usage
+
+###### lim 
+###### lim run file_name
+###### lim build file_name dest_path
+###### lim --help
+###### lim -version
+*       - only lim it run lim shell
+* run 	 - compile filename and run execute it
+* build  - compile and build filename
+* --help  - display help screend and options
+* -version  - display lim-shell version
+
 ## Build
 You will need install
 + visual studio 2019 https://visualstudio.microsoft.com/
