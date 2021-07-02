@@ -14,11 +14,11 @@ scripting language build on dotnet core
 ###### lim build file_name dest_path
 ###### lim --help
 ###### lim -version
+* only lim  - run lim shell
 * run 	    - compile filename and run execute it
 * build     - compile and build filename
 * --help    - display help screend and options
 * -version  - display lim-shell version
-* only lim  - run lim shell
 
 ## Build
 You will need install
@@ -26,6 +26,25 @@ You will need install
 + dotnet core https://dotnet.microsoft.com/download
 
 Compile and Build as any cpu ( x64 )
+
+## How it work
+Lim shell has a CLI for several options
++ simple usage just run the exe file
++ install the project as a tool and use cli
+lim is scripting language build on dotnet core ( c# ).
+
+#### Run time 
+pass lim file or just write text to the cmd
+the system proccess the file / code
+to c# objects and execute it at run time
+
+#### Compile / Build 
+
++ proccess the lim file to c# objects
++ generate cs files
++ create new dotnet project
++ copy the files
++ compile and build
 
 ## ScreenShots
 
