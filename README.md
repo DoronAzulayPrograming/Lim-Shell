@@ -37,6 +37,15 @@ Lim shell has a CLI for several options
 + install the project as a tool and use cli
 lim is scripting language build on dotnet core ( c# ).
 
+## File simple
+
+```javascript
+func add(a,b)->a+b
+var x = 17 + 25
+var b = add(x,x)
+print(b)
+```
+
 #### Run time 
 pass lim file or just write text to the cmd
 the system proccess the file / code
