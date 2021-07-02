@@ -20,6 +20,16 @@ scripting language build on dotnet core
 * --help    - display help screend and options
 * -version  - display lim-shell version
 
+## Simple Code
+
+```javascript
+print("Hello World.!") // print Hello World.!
+func add(a,b)->a+b     // function definition
+var x = 10 + 25        // x = 35
+var b = add(x,x)       // b = 70
+print(b)               // print 70
+```
+
 ## Build
 You will need install
 + visual studio 2019 https://visualstudio.microsoft.com/
@@ -36,16 +46,6 @@ Lim shell has a CLI for several options
 + simple usage just run the exe file
 + install the project as a tool and use cli
 lim is scripting language build on dotnet core ( c# ).
-
-## Simple Code
-
-```javascript
-print("Hello World.!") // print Hello World.!
-func add(a,b)->a+b     // function definition
-var x = 10 + 25        // x = 35
-var b = add(x,x)       // b = 70
-print(b)               // print 70
-```
 
 #### Run time 
 pass lim file or just write text to the cmd
