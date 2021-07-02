@@ -37,13 +37,14 @@ Lim shell has a CLI for several options
 + install the project as a tool and use cli
 lim is scripting language build on dotnet core ( c# ).
 
-## File simple
+## File Code
 
 ```javascript
-func add(a,b)->a+b
-var x = 17 + 25
-var b = add(x,x)
-print(b)
+print("Hello World.!") // print Hello World.!
+func add(a,b)->a+b     // function definition
+var x = 10 + 25        // x = 35
+var b = add(x,x)       // b = 70
+print(b)               // print 70
 ```
 
 #### Run time 
