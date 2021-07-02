@@ -15,7 +15,7 @@ scripting language build on dotnet core
 ###### lim --help
 ###### lim -version
 * only lim  - run lim shell
-* run 	    - compile filename and run execute it
+* run 	    - compile filename and execute
 * build     - compile and build filename
 * --help    - display help screend and options
 * -version  - display lim-shell version
