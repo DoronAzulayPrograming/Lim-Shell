@@ -52,7 +52,7 @@ to c# objects and execute it at run time
 
 ## ScreenShots
 
-Help screen.
+Using global tool - Help screen.
 
 <img src="https://i.ibb.co/kxsCdrW/help-Screen.png" alt="help-Screen" border="0">
 
