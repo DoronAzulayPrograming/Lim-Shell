@@ -14,6 +14,10 @@ you will need install
 
 ## ScreenShots
 
-<img src="https://i.ibb.co/nP91b5M/For-Loop-And-If-Statment.png" alt="For-Loop-And-If-Statment" border="0">
+Using Variables and Functions.
 
 <img src="https://i.ibb.co/MPHWNVR/Vas-And-Funcs.png" alt="Vas-And-Funcs" border="0">
+
+Using For loop and if statement.
+
+<img src="https://i.ibb.co/nP91b5M/For-Loop-And-If-Statment.png" alt="For-Loop-And-If-Statment" border="0">
