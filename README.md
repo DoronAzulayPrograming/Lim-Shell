@@ -37,7 +37,7 @@ Lim shell has a CLI for several options
 + install the project as a tool and use cli
 lim is scripting language build on dotnet core ( c# ).
 
-## File Code
+## Simple Code
 
 ```javascript
 print("Hello World.!") // print Hello World.!
