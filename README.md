@@ -20,16 +20,16 @@ scripting language build on dotnet core
 * --help    - display help screend and options
 * -version  - display lim-shell version
 
-## Tool
-you can install lim as a global tool and use lim in any directory
-* open cmd in main folder and run - dotnet tool install --global --add-source ./nupkg lim
-
 ## Build
 You will need install
 + visual studio 2019 https://visualstudio.microsoft.com/
 + dotnet core https://dotnet.microsoft.com/download
 
 Compile and Build as any cpu ( x64 )
+
+#### Tool
+you can install lim as a global tool and use lim in any directory
+* open cmd in main folder and run - dotnet tool install --global --add-source ./nupkg lim
 
 ## How it work
 Lim shell has a CLI for several options
